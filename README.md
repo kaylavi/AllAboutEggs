@@ -1,17 +1,12 @@
 ## Different Types of Cooked Eggs
 
-### Markdown
+Ever get stressed out when someone asks you what kind of egg you'd like, or how would you like them cooked? Well here's a basic guide to the world of cooked eggs designed to make your life easier.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
+# Boiled Eggs
 Boiled Eggs
-## Header 2
+## Scrambled Eggs
 Srambled Eggs
-### Header 3
+### Fried Eggs
 Fried Eggs
 - Bulleted
 - List
