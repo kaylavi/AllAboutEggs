@@ -1,4 +1,4 @@
-## The Different Way of Cooking Eggs
+## Different Types of Cooked Eggs
 
 ### Markdown
 
@@ -8,9 +8,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+Boiled Eggs
 ## Header 2
+Srambled Eggs
 ### Header 3
-
+Fried Eggs
 - Bulleted
 - List
 
