@@ -7,6 +7,7 @@ Fried Eggs are cracked open & cooked on a frying pan. They are traditionally eat
 
 **Before frying your eggs, make sure your pan is well oiled or buttered to ensure the eggs don't stick! And don't be afraid to experiment by adding some herbs, light seasoning, or salt & pepper to give your eggs a little more flavor.**  
 
+
 #### **Sunny-Side Up**
 An egg that is 'sunny-side up' is fried with the yolk facing upward and is not flipped. 
 #### **Over-Easy**
