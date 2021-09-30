@@ -5,8 +5,7 @@ Your basic guide to different types of cooked eggs.
 ## Fried Eggs
 Fried Eggs are cracked open & cooked on a frying pan. They are traditionally eaten during breakfast and pair well with toast, bacon, steak, fried rice, and more! When ordering from a resturant or cooking them yourself, there are three main types of fried eggs to be aware of.  
 
-**Before frying your eggs, make sure your pan is well oiled or buttered to ensure the eggs don't stick! And don't be afraid to experiment by adding some herbs, light seasoning, or salt & pepper to give your eggs a little more flavor.**  
-
+Before frying your eggs, make sure your pan is well oiled or buttered to ensure the eggs don't stick! And don't be afraid to experiment by adding some herbs, light seasoning, or salt & pepper to give your eggs a little more flavor. 
 
 #### **Sunny-Side Up**
 An egg that is 'sunny-side up' is fried with the yolk facing upward and is not flipped. 
