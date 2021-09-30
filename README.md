@@ -17,7 +17,7 @@ An over-medium egg is also flipped, but the yolk is only slightly runny.
 ## Scrambled Eggs
 Scrambled eggs are a typically served during breakfast. Before adding them onto a frying pan, the eggs are stirred/whipped together, combining both the yolk and eggs whites and giving the final cooked eggs a yellow color. Milk or cream is sometimes added to the eggs to make them more silky, along with some light seasoning or herbs for flavor. 
 
-**Scrambled Eggs can be eaten plain or have different toppings added to them to create an omelet! Some common omelet additives include tomatoes, mushrooms, spinach, onions, cheese, or different meats such as sausage, bacon, or ham! The combinations you can make are endless.** 
+Scrambled Eggs can be eaten plain or have different toppings added to them to create an omelet! Some common omelet additives include tomatoes, mushrooms, spinach, onions, cheese, or different meats such as sausage, bacon, or ham! The combinations you can make are endless.
 
 ## Boiled Eggs
 Boiled Eggs
