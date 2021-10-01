@@ -3,7 +3,7 @@
 Your basic guide to different types of cooked eggs. 
 
 ## Fried Eggs
-![Uploading charisse-kenion-Ycg-qnn7XEM-unsplash.jpg…]()
+![Uploading charisse-kenion-Ycg-qnn7XEM-unsplash.jpg…](charisse-kenion-Ycg-qnn7XEM-unsplash.jpg)
 
 Fried Eggs are cracked open & cooked on a frying pan. They are traditionally eaten during breakfast and pair well with toast, bacon, steak, fried rice, and more! When ordering from a resturant or cooking them yourself, there are three main types of fried eggs to be aware of.  
 
