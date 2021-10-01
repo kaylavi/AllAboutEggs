@@ -43,7 +43,7 @@ Cooking poached eggs are probably the trickiest to get right. The process includ
 
 Steak, toast, and the popular eggs-benedict entrée are some of the most common things poached eggs are eaten with. 
 
-***
+_ _ _
 
 #### Thanks for stopping by! Have an egg-celent day! 
 
