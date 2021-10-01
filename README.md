@@ -1,7 +1,7 @@
 # All About Eggs
 
 ### Your basic guide to different types of cooked eggs. 
-nn
+
 ![style="height: 100%;"](https://images.unsplash.com/photo-1498654077810-12c21d4d6dc3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1740&q=80)
 
 ## Fried Eggs
@@ -24,7 +24,6 @@ Scrambled eggs are a typically served during breakfast. Before adding them onto 
 Scrambled Eggs can be eaten plain or have different toppings added to them to create an **omelet**! Omelets are one of the most common breakfast meals and can be found at almost any breakfast restaurant. Some common omelet additives include tomatoes, mushrooms, spinach, onions, cheese, or different meats such as sausage, bacon, or ham.
 
 
-
 ## Boiled Eggs
 Boiled eggs are the only types of eggs that are cooked with the shell on. They are placed in a pot of boiling hot water and are cooked for a certain time depending on how hard you'd like the yolk.  
 
@@ -35,13 +34,7 @@ Hard boiled have yolks that are completely cooked through, and they're typically
 In contrast to hard boiled eggs, the yolk in a soft boiled egg is slightly runny. Timing is everything when it comes to cooking a soft boiled egg; you want to make sure the egg is still fully cooked but only to the point where the yolk is still a bit soft. Cooking time can range between 4-8 minutes, but it may take a few tries to find the perfect texture to your liking. Soft boiled eggs are commonly eaten with toast (buttered or avocado toast) or noodle dishes such as ramen. 
 
 
-
 ## Poached Eggs
 Poached eggs are the hardes
 
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+![style="height: 100%;"](https://images.unsplash.com/photo-1575278220902-cdf1a07a0421?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1742&q=80)
