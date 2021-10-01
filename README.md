@@ -17,11 +17,19 @@ An over-medium egg is also flipped, but the yolk is only slightly runny.
 ## Scrambled Eggs
 Scrambled eggs are a typically served during breakfast. Before adding them onto a frying pan, the eggs are stirred/whipped together, combining both the yolk and eggs whites and giving the final cooked eggs a yellow color. Milk or cream is sometimes added to the eggs to make them more silky, along with some light seasoning or herbs for flavor. 
 
-Scrambled Eggs can be eaten plain or have different toppings added to them to create an omelet! Omelets are one of the most common breakfast meals and can be found at almost any breakfast restaurant. Some common omelet additives include tomatoes, mushrooms, spinach, onions, cheese, or different meats such as sausage, bacon, or ham.
+Scrambled Eggs can be eaten plain or have different toppings added to them to create an **omelet**! Omelets are one of the most common breakfast meals and can be found at almost any breakfast restaurant. Some common omelet additives include tomatoes, mushrooms, spinach, onions, cheese, or different meats such as sausage, bacon, or ham.
 
 ## Boiled Eggs
-Boiled eggs are the only types of eggs that are cooked with the shell on. They are placed in pot of boiling water depending . 
+Boiled eggs are the only types of eggs that are cooked with the shell on. They are placed in a pot of boiling hot water and are cooked for a certain time depending on how hard you'd like the yolk.  
+
+#### **Hard Boiled**
+Hard boiled have yolks that are completely cooked through, and they're typically left in the pot anywhere between 8-15 minutes. These eggs can be eaten by themselves but are also put in salads, sandwiches, or noodle dishes. 
+
+#### **Soft Boiled**
+In contrast to hard boiled eggs, the yolk in a soft boiled egg is slightly runny. Timing is everything when it comes to cooking a soft boiled egg; you want to make sure the egg is still fully cooked but only to the point where the yolk is still a bit soft. Cooking time can range between 4-8 minutes, but it may take a few tries to find the perfect texture to your liking. Soft boiled eggs are commonly eaten with toast (buttered or avocado toast) or noodle dishes such as ramen. 
+
 ## Poached Eggs
+
 
 
 **Bold** and _Italic_ and `Code` text
