@@ -3,7 +3,7 @@
 Your basic guide to different types of cooked eggs. 
 
 ## Fried Eggs
-![Uploading charisse-kenion-Ycg-qnn7XEM-unsplash.jpg…](charisse-kenion-Ycg-qnn7XEM-unsplash.jpg)
+!["position: absolute; opacity: 0;"](src="/a/vendors~collection-route~editorial-route~explore-route~following-route~photos-route~search-photos-ro~4a700f65.852bf.js)
 
 Fried Eggs are cracked open & cooked on a frying pan. They are traditionally eaten during breakfast and pair well with toast, bacon, steak, fried rice, and more! When ordering from a resturant or cooking them yourself, there are three main types of fried eggs to be aware of.  
 
@@ -19,7 +19,6 @@ An over-medium egg is also flipped, but the yolk is only slightly runny.
 
 
 ## Scrambled Eggs
-![style="width="800"](https://images.unsplash.com/photo-1554280238-54bb925fc043?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1740&q=80)
 Scrambled eggs are a typically served during breakfast. Before adding them onto a frying pan, the eggs are stirred/whipped together, combining both the yolk and eggs whites and giving the final cooked eggs a yellow color. Milk or cream is sometimes added to the eggs to make them more silky, along with some light seasoning or herbs for flavor. 
 
 Scrambled Eggs can be eaten plain or have different toppings added to them to create an **omelet**! Omelets are one of the most common breakfast meals and can be found at almost any breakfast restaurant. Some common omelet additives include tomatoes, mushrooms, spinach, onions, cheese, or different meats such as sausage, bacon, or ham.
