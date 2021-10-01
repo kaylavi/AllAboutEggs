@@ -1,4 +1,4 @@
-# All About Eggs
+# All About Eggs :fried_egg: 
 
 ### Your basic guide to different types of cooked eggs. 
 
