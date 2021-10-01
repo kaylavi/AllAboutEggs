@@ -46,6 +46,6 @@ ________________________________________________________________________________
 
 #### Thanks for stopping by! Have an egg-celent day! 
 
-For more info, check out this amazing video from Tasty! https://www.youtube.com/watch?v=X5oD_thIk3c 
+For more info, check out this amazing video from Tasty! <https://www.youtube.com/watch?v=X5oD_thIk3c> 
 
 ![style="height: 100%;"](https://images.unsplash.com/photo-1575278220902-cdf1a07a0421?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1742&q=80)
