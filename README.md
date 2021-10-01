@@ -42,7 +42,7 @@ ________________________________________________________________________________
 Cooking poached eggs are probably the trickiest to get right. The process includes measuring the water level in the pot, adding a bit of vinegar, letting the water heat up to a simmer, creating a vortex by stirring the water, and finally dropping the unstirred egg in the middle of the vortex from above. The egg should stay intact and keep a round shape; after a few minutes, the egg is taken out with a sprainer spoon and put into an ice bath to cool. When cut, the final poached egg should have a runny yolk.  
 
 Steak, toast, and the popular eggs-benedict entrée are some of the most common things poached eggs are eaten with. 
-_____________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________
 
 Check out this video from Tasty for a more in depth tutorial! https://www.youtube.com/watch?v=X5oD_thIk3c 
 
